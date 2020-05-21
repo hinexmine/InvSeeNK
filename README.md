@@ -10,9 +10,9 @@ Command | Permission | Alias | Description
 ------- | ---------- | ----- | -------------
 /invsee <<txt>player> | invsee.invsee | - | -
 /invsee <<txt>player> | invsee.invsee.move | - | -
-/enderchest | invsee.enderchest | ec | Open the ender chest from yourself or other players
-- | invsee.enderchest.other | - | Look into the ender chest of the other players
-- | invsee.enderchest.move | - | Move or take items from the players ender chest
+/enderchest [player] | invsee.enderchest | ec | Open the ender chest from yourself or other players
+/enderchest [player] | invsee.enderchest.other | - | Look into the ender chest of the other players
+/enderchest [player] | invsee.enderchest.move | - | Move or take items from the players ender chest
 
 ----------------
 
