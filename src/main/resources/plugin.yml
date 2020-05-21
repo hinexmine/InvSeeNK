@@ -1,0 +1,6 @@
+name: InvSee
+main: tim03we.invsee.InvSee
+api: 1.0.9
+author: tim03we
+version: 1.0.0
+description: A NukkitX Plugin

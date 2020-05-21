@@ -1,0 +1,8 @@
+prefix: "&8[&b!&8] &7"
+
+same.player: "You cannot receive your own inventory."
+no.permission: "No Permission"
+player.not.found: "This player does not exist."
+
+enderchest: "Enderchest"
+inventory: "Inventory"
